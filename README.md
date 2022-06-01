@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pradeep Kumar Chokkahalli Prabhaka 
+## 👋 Hi, I’m Pradeep Kumar Chokkahalli Prabhakar  
 - 👀 I’m interested in working with Data, Analyzing it, Visualizing it, Deriving Key Insights. Overall making sense out of it.
 - 🌱 I’m currently pursuing MS in Business Analytics at The University of Texas at Dallas.
 - 💞️ I’m looking to collaborate on Data Science Projects.
